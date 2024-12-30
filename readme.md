@@ -12,6 +12,9 @@ Simple stop motion movie review written only in HTML.
 ### Project 2 Victorian birthday invite
 Same idea as project 1 but with ordered/unordered lists and a different font.
 
+### Project 2 Page browser
+Plain HTML page viewer (browse project 1 and project 2 using frames to open a page inside main page).
+
 
 ## Certification
 
