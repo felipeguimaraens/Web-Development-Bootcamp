@@ -27,6 +27,9 @@ Challenge: create Laos flag using only CSS (selectors).
 ### Project 7 Web Design Agency
 Responsiveness without using grid, flexbox or Bootstrap (obs: main file provided by course instructor contain some of flexbox in body tag).
 
+### Project 8 Pricing Table
+Small widget responsive created using flex-box.
+
 ## Certification
 
 ![Certificate](https://udemy-certificate.s3.amazonaws.com/image/UC-55c8450c-366f-4267-84ad-b4389741914e.jpg?v=1652488446000)
