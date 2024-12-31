@@ -12,9 +12,20 @@ Simple stop motion movie review written only in HTML.
 ### Project 2 Victorian birthday invite
 Same idea as project 1 but with ordered/unordered lists and a different font.
 
-### Project 2 Page browser
+### Project 3 Page browser
 Plain HTML page viewer (browse project 1 and project 2 using frames to open a page inside main page).
 
+### Project 4 Color vocabulary
+Simple CSS page created as exercise (basically colors).
+
+### Project 5 Motivational Message
+Template for motivational messages (positioning, width, color, border).
+
+### Project 6 CSS Flag
+Challenge: create Laos flag using only CSS (selectors).
+
+### Project 7 Web Design Agency
+Responsiveness without using grid, flexbox or Bootstrap (obs: main file provided by course instructor contain some of flexbox in body tag).
 
 ## Certification
 
