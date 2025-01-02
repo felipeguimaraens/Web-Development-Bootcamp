@@ -4,7 +4,10 @@ This repo contains all projects I created during the course: <b>The Complete 202
 
 
 ## Description
-<hr>
+
+
+### Exercises
+Folder that contains all exercises from FlexBox chapters to the end of course
 
 ### Project 1 Movie Review
 Simple stop motion movie review written only in HTML.
